@@ -1,0 +1,7 @@
+@media (max-width: 320px){
+    .test {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+    }
+}
